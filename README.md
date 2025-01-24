@@ -22,3 +22,5 @@ git checkout main
 ## ¿Cómo escribir un README.md con formato?
 
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+![Imagen1](./Imagen/Imagen1.png)
